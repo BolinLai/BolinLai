@@ -2,6 +2,12 @@
 
 Welcome to my GitHub!
 
+I'm a PhD student at Georgia Tech and a visiting student at UIUC. 
+
+My research interests lie in Multi-Modal Learning, Generative Models (including Multimodal LLMs and Diffusion Models) and Video Understanding. More details can be found in my [homepage](https://bolinlai.github.io/).
+
+Please drop me an email if you have questions about my work or have interests in collaboration!
+
 <!--
 **BolinLai/BolinLai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
